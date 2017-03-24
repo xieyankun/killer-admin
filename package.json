@@ -10,8 +10,16 @@
     "lint": "eslint --ext .js,.vue src"
   },
   "dependencies": {
+    "axios": "^0.15.3",
+    "axios-mock-adapter": "^1.8.1",
+    "echarts": "^3.4.0",
+    "element-ui": "^1.2.5",
+    "mockjs": "^1.0.1-beta3",
+    "node-sass": "^4.5.1",
+    "sass-loader": "^6.0.3",
     "vue": "^2.2.2",
-    "vue-router": "^2.2.0"
+    "vue-router": "^2.2.0",
+    "vuex": "^2.2.1"
   },
   "devDependencies": {
     "autoprefixer": "^6.7.2",
